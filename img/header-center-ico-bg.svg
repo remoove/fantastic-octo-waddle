@@ -1,0 +1,41 @@
+<svg id="header-center-ico" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="336" height="94" viewBox="0 0 336 94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #364058;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #364059;
+      }
+
+      .cls-3 {
+        opacity: 0.3;
+      }
+
+      .cls-4 {
+        fill: #ffb400;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="879" y="145" width="163" height="26" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" stdDeviation="3.333" in="SourceAlpha"/>
+      <feComposite result="composite"/>
+      <feComposite result="composite-2"/>
+      <feComposite result="composite-3"/>
+      <feFlood result="flood" flood-color="#ffb400" flood-opacity="0.25"/>
+      <feComposite result="composite-4" operator="in" in2="composite-3"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Фигура_3_копия" data-name="Фигура 3 копия" class="cls-1" d="M885,144l2,2h73v-2H885Zm150,0-2,2H960v-2h75Z" transform="translate(-792 -106)"/>
+  <path id="Фигура_3_копия_7" data-name="Фигура 3 копия 7" class="cls-2" d="M1008,142v2h120Z" transform="translate(-792 -106)"/>
+  <path id="Фигура_3_копия_8" data-name="Фигура 3 копия 8" class="cls-2" d="M912,142v2H792Z" transform="translate(-792 -106)"/>
+  <image id="Слой_34_копия" data-name="Слой 34 копия" class="cls-3" x="127" width="82" height="59" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFIAAAA5CAYAAAClH3wCAAAF1ElEQVR4nOWbi5LTMAxFHe/+/xeTmIHBjHq4ejhJ2wU00yF1HEc+vpKcdNnGGO1Ntv267XTA+16xt01i2ue7HRDAVgDymrcBfRXIM3Duus9L4PZX3OTNobe9YiGfrchXKbFiTw3/Z4C8Ci+6/g4IdvzboH6FYtMW4Gf9/olis6LESt8zylwN3+0u+HfsI68C3JLzmdkJqMlUJ3gJxF0b8gxABPDOgnQV6mkYV0N7FWCkvkyt0yJAnj9PD/UrilyB6O3lPJhnispwzg2nbXX80M6CvAqRwK7kSQL0wvupQM+EdjTRCsAMXgTZU10zYanCc5hxBq7xxmvOWNJWQVYgRqAUSALP8ugQ7UpttGHuVelPH8L+KyCrSmwBVIJUELM86YXu7H+cUGemvBT6So70JpYpcX7vaPPa1bW0gTCfx4fpd4g+Xh6NUkYrnHvak41S3jye4BRYpVLP7OQPM9YE04MCszlqjJQZqrYCciUvquPs0xOI9lWfqtAEc5h2G+YHxrHXdGessmUgqxCjwkIV2jaqs4sxaCoshwBBiB1tXJTTm/GWgFzdz6nQpuK6o0DVVtn+WOWpXEmIhOkVHQ+qW8GjYlNRo1IQAUUgu/iX49BUAZnADtFmz03AuzNGc9RqTQKLFKn2a4TGdg9iBNRTaaVqM6Q7oHUx8QM50fpfyZHy/Gpoe5WYxwRDaL2gVt6vCaVY1TFc7Xn+NmWrvO1LWFGIP7R7IFfzo71GhasHsaJMGnOhnbQFtJvvh7lHM21dVPOKlRTpQYwUyOpcUeL8fCSKVP7MydtQnmPsgMPrrG8HxldFSKnyj6KjQKrcyJtFQDvaPZgfSZi3QCEfUOZmwphGKB3XdVN8MoCuEWQW0pXi46lxA0QqsRvnBxbHy5GbgeqpcADeAV8jBVYLUPkR0avgDZO1oU2FUYGEbJ8yvBxpJ6wqtvW3o6/9vmGxpioJrlzBP9HodW6YmPevAptVcK9IEa6FtAHkAVjWDgFRPRJSlQq6C1U9x3qmEq5SjmpXqhsoGh5EQmNuZPE4UL29hwDld0NbxX72ryjSO88bKwc3QLRFwU5eqUmpkrnygCKt4nYn1xI8jxtEk4X3aIuKJEB1HdPA9svBHSGjrrVAmnh+/jHGN6jOezrhoh1ikRsWJ5pnpNbTirTqofrUhxPdAKsZVXCi3OfRjyYWw5pXrbkRt2NHedEV2wS5khfcVRG2AxDDjVseO55SAfuyijeEuzUqXm3I2X95H+ltb7IEzOssAOYctdKcrAon+12pJALNwjN92Y2vHrCVyr1l+8hs/6j6z0e0DzjDnwM41kqOZgqgT9wWZeFpn26Upb59JmEdnfMgcx+2i5x6OGNUJtygJuZoNU4F6ObkzVZY6PGZqO6hcyE/2gJgN8I7+qmQYvFQE20AtgWFT73VWVVq1P7gm82RrQi0wWELeEcBUe/96OBwjjkJblsa4Kmqr+5nvx9YcG+u6cPKyvbH9uHb54HX981A7AB6oB/7e4psWMBmwNlPR5+HCeOY99qS+3u2XGyY/7yw/hbs9wY+0cRUpETK5If9q340s+ipGttNb39+mH2fF61yC/JTliObAGrvwWq+OY+d3nwGoiLa7vwxpgWpBs/CXU3a2+Z4uVBBzO7XAIwqtbsDtblXqlSb+3KYXw1tTlAp0gMVhdWqzeuYj9We01NiNK/M0mKjIDJvWRiZQ2dU6Jm93hZB+ja/Rz9feLsWFVXSGNp2AHWDihPqGddTZOrgoqnFVn6p3OctfLTgv9tWfkVUxsHVk4ECq46vmLebyNJP5BPTDu3hXPVXRM+JFadCR26wCqjskdfz7XKxseZtcDOFLTt10VQ6Yj7PNuttVQSrf0S1EvaRc6+w1a1cdQ6y7cyfPvP5OrrJK8FVLBJHVljDudzxN+SefTWI06rvFJYEEb31+J9tOapWik01nL+6eb6ezaE/bVWRam/1N0GMTM2rPLez/z3kX4FH45NRzVpr3wEcSbqB6UEoUAAAAABJRU5ErkJggg=="/>
+  <path id="Фигура_3_копия_11" data-name="Фигура 3 копия 11" class="cls-4" d="M1010.99,159.734l1.47,1.255,2.91-2.794-1.39-1.331Zm5.98-5.741,1.3,1.408-2.9,2.794-1.39-1.331Zm0.88,5.741,1.47,1.255,2.9-2.794-1.38-1.331Zm5.98-5.741,1.3,1.408-2.91,2.794-1.38-1.331Zm0.88,5.741,1.46,1.255,2.91-2.794-1.38-1.331Zm5.97-5.741,1.31,1.408-2.91,2.794-1.38-1.331Zm-121.673,5.741-1.465,1.255-2.908-2.794,1.385-1.331Zm-5.975-5.741-1.306,1.408,2.908,2.794,1.385-1.331Zm-0.882,5.741-1.466,1.255-2.907-2.794,1.385-1.331Zm-5.976-5.741-1.3,1.408,2.908,2.794,1.385-1.331Zm-0.882,5.741-1.465,1.255L890.92,158.2l1.385-1.331Zm-5.975-5.741-1.305,1.408,2.908,2.794,1.385-1.331Z" transform="translate(-792 -106)"/>
+</svg>

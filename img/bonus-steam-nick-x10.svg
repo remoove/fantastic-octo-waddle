@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="156" height="91" viewBox="0 0 156 91">
+  <defs>
+    <style>
+      .cls-134534645 {
+        fill: #ffa200;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="814" y="810" width="156" height="91" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" stdDeviation="6.667" in="SourceAlpha"/>
+      <feComposite result="composite"/>
+      <feComposite result="composite-2"/>
+      <feComposite result="composite-3"/>
+      <feFlood result="flood" flood-color="#ce3000" flood-opacity="0.34"/>
+      <feComposite result="composite-4" operator="in" in2="composite-3"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+      <feFlood result="flood-2"/>
+      <feComposite result="composite-5" operator="in" in2="SourceAlpha"/>
+      <feOffset result="offset" dx="-0.448" dy="-0.894"/>
+      <feOffset result="offset-2" dx="0.448" dy="0.894" in="composite-5"/>
+      <feComposite result="composite-6" operator="xor" in="offset"/>
+      <feComposite result="composite-9" operator="xor" in2="composite-5"/>
+      <feComposite result="composite-7" operator="in" in2="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="1"/>
+      <feComponentTransfer result="comp">
+        <feFuncA type="linear" slope="0.1"/>
+      </feComponentTransfer>
+      <feComposite result="composite-8" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-3" in2="blend-2"/>
+    </filter>
+  </defs>
+  <path id="X10" class="cls-134534645" d="M848.469,832.5h-12.5l12.687,22.563L835.625,878H848.25l7.656-15.406L863.563,878h12.656l-13.063-22.937L875.875,832.5H863.344l-7.438,15.125Zm54.156,0h-0.969l-19.968,6.906v8l10.375-3.031V878h10.562V832.5Zm45.25,18.625q0-9.187-4.156-14.219T932,831.875q-7.563,0-11.7,5t-4.141,14.219v8.312q0,9.158,4.157,14.188t11.75,5.031q7.53,0,11.671-5t4.141-14.219v-8.281ZM937.344,861q-0.032,4.906-1.313,7.2a4.241,4.241,0,0,1-3.968,2.3A4.3,4.3,0,0,1,928,868.141q-1.281-2.359-1.281-7.453V849.063a15.281,15.281,0,0,1,1.328-6.813A4.181,4.181,0,0,1,932,840a4.285,4.285,0,0,1,4.063,2.422q1.281,2.423,1.281,7.328V861Z" transform="translate(-814 -810)"/>
+</svg>
